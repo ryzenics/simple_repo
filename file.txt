@@ -1,3 +1,7 @@
 Line A
+<<<<<<< HEAD
 Line Master
+=======
+Line 1
+>>>>>>> branch1
 Line C
